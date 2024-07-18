@@ -3,7 +3,8 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "build": "vite build"
+        "build": "vite build",
+        "production": "vite build"
     },
     "devDependencies": {
         "@popperjs/core": "^2.11.8",
@@ -28,5 +29,7 @@
         "tinymce": "^6.4.2",
         "tom-select": "^2.2.2",
         "vite": "^4.5.3"
-    }
+    
+}
+
 }
